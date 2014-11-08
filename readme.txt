@@ -1,2 +1,6 @@
 Come on , baby!
-Let you go.
+<<<<<<< HEAD
+Let's go.
+=======
+Let's go.
+>>>>>>> feature1
